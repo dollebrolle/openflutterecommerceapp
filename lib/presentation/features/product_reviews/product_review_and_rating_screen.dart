@@ -89,10 +89,7 @@ class ProductReviewRatingScreenState extends State<ProductReviewRatingScreen> {
           child: Container(
             decoration: BoxDecoration(
               gradient: LinearGradient(
-                colors: [
-                  Colors.white,
-                  Colors.white12,
-                ],
+                
                 begin: Alignment.bottomCenter,
                 end: Alignment.topCenter,
               ),
